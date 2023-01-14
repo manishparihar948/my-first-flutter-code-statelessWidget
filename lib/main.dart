@@ -197,7 +197,6 @@ class NinjaCard  extends StatelessWidget {
                     letterSpacing: 1.0,
                   ),
                 ),
-
               ],
             )
           ],
