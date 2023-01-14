@@ -202,8 +202,6 @@ class NinjaCard  extends StatelessWidget {
           ],
         ),
       ),
-
-
     ); // Provide AppBar, Body
   }
 }
