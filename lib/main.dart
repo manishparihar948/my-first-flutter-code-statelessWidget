@@ -4,7 +4,6 @@ void main() => runApp(MaterialApp (
   home: NinjaCard(),
 ));
 
-
 // https://stackoverflow.com/questions/25523490/comment-shortcut-android-studio
 /*
 class MyApp extends StatelessWidget {
