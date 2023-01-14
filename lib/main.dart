@@ -154,7 +154,7 @@ class NinjaCard  extends StatelessWidget {
             ),
             SizedBox(height: 10.0),
             Text(
-              'Manish Parihar',
+              'Ammy Jackmann',
               style: TextStyle(
                 color: Colors.amberAccent[200],
                 letterSpacing: 2.0,
@@ -190,7 +190,7 @@ class NinjaCard  extends StatelessWidget {
                 ),
                 SizedBox(width: 10.0),
                 Text(
-                  'manishs.parihar948@gmail.com',
+                  'ammyjackmann@gmail.com',
                   style: TextStyle(
                     color: Colors.grey[400],
                     fontSize: 18.0,
