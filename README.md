@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# Setup editor for livil-ios
+# Setup editor for flutter for ios
 
 <p>
 This document was created for the purpose of setting up an appropriate IDE or SDK for running successfully the livil workspace for development to deployment of the company's ios product app.
